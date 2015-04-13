@@ -1,2 +1,3 @@
 Este es un fichero de texto de prueba.
 Realizo cambios desde iMac por segunda vez.
+Esta linea debe dar conflicto 1.
