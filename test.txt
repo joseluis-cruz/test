@@ -2,3 +2,7 @@ Este es un fichero de texto de prueba.
 Realizo cambios desde iMac por segunda vez.
 Esta linea debe dar conflicto 1.
 Meto esta línea en la clase del 14/abril.
+
+
+
+18:41 14/04/2015 Julio
