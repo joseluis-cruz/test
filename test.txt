@@ -5,8 +5,19 @@ Meto esta línea en la clase del 14/abril.
 
 
 
+<<<<<<< HEAD
 18:41 14/04/2015 Julio
 
 
 
 #Pedro: Creando conflicto.
+=======
+<<<<<<< HEAD
+18:41 14/04/2015 Julio
+
+oscar 
+=======
+
+18:44 14/04/2015
+>>>>>>> origin/master
+>>>>>>> origin/master
